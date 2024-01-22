@@ -1,4 +1,4 @@
-# CSC8101 - Big Data Analytics
+# CSC8101 - Engineering for AI
 
 - [Labs](01-labs/README.md)
 - [Spark assignment](02-assignment-spark/CSC8101-spark-coursework.ipynb)
