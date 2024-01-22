@@ -1,4 +1,4 @@
-# 1st Neo4j Practical - 14 Feb 2023
+# 1st Neo4j Practical - 14 Feb 2024
 
 ## Neo4j server details
 
