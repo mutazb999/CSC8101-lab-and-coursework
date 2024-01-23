@@ -30,9 +30,11 @@ Determine the number of:
 
 Find:
 
-1. all unique borough names;
-2. all zone pairs with at least 5000 daily trips (return the names of the origin and destination zones and number of trips sorted in ascending order)
-3. the top 5 most popular origin-destination pairs (return the names of the origin and destination zone and number of trips);
-4. the top 5 most popular origin-destination pairs within Brooklyn (return the names of the origin and destination zone and number of trips);
-5. the total number of trips per origin borough.
+1. all unique zone names
+2. all unique borough names;
+3. all zone pairs with their trips (return the names of the origin and destination zones and number of trips sorted in ascending order)
+4. all zone pairs with at least 5000 daily trips (return the names of the origin and destination zones and number of trips sorted in ascending order)
+5. the top 5 most popular origin-destination pairs (return the names of the origin and destination zone and number of trips);
+6. the top 5 most popular origin-destination pairs within Brooklyn (return the names of the origin and destination zone and number of trips);
+7. the total number of trips per origin borough.
 
